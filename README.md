@@ -21,7 +21,3 @@ This app allows users to add, view, search, and delete notes that are persisted 
 - Java SE (File I/O, Exception Handling, Logging)
 - java.util.logging
 - OOP principles
-
----
-
-## File Structure
